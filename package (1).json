@@ -1,0 +1,13 @@
+
+{
+  "name": "personal-profile-app",
+  "version": "1.0.0",
+  "description": "A personal profile app using Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
